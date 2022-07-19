@@ -1,6 +1,6 @@
-# KoNERET: A Korean Cultural Heritage Corpus for Entity-related Tasks
+# KoCHET: a Korean Cultural Heritage corpus for Entity-related Tasks
 
-We propose _**KoNERET benchmark dataset v 1.0**_ Korean cultural heritage corpus for entity-related tasks, named entity recognition (NER), relation extraction (RE), and entity typing (ET).
+We propose _**KoCHET benchmark dataset v 1.0**_ Korean cultural heritage corpus for entity-related tasks, named entity recognition (NER), relation extraction (RE), and entity typing (ET).
 
 This research was conducted within the framework of the project "_Development of Intelligent Curation and Service Platform-based Digital Asset for Immersive Cultural Heritage_" presented in the South Korean Ministry of Culture.
 
