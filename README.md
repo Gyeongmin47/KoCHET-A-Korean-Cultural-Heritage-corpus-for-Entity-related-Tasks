@@ -1,16 +1,40 @@
-# KoCHET: a Korean Cultural Heritage corpus for Entity-related Tasks
+# KoCHET: a Korean Cultural Heritage corpus for Entity-related Tasks [Accepted at COLING 2022]
 
 We propose _**KoCHET benchmark dataset v 1.0**_ Korean cultural heritage corpus for entity-related tasks, named entity recognition (NER), relation extraction (RE), and entity typing (ET).
 
 This research was conducted within the framework of the project "_Development of Intelligent Curation and Service Platform-based Digital Asset for Immersive Cultural Heritage_" presented in the South Korean Ministry of Culture.
 
-
-## Download
-
-We will release after... TBD
+- paper: [https://arxiv.org/abs/2209.00367](https://arxiv.org/abs/2209.00367)
 
 
-## Corpus Statistics
+------------------------------------------
+## :mag_right: Download 
+
+KoCHET is uploaded ***[**here**](https://drive.google.com/drive/folders/1E-jAQ8wmoPFRNJAtBPfya1KyK3jUq3XS?usp=sharing)***
+
+------------------------------------------
+## :open_file_folder: ***Folder Description***
+
+- ```KoCHET Directory Link```: 
+
+```
+KoCHET - a Korean cultural heritage corpus
+  ├─ Named Entity Recognition (NER):
+                                ├─ ner_{train,dev,test}.json
+                                ├─ coarse_list.txt
+  ├─ Relation Extraction (RE):
+                          ├─ re_{train,dev,test}.json
+                          ├─ relation_list.txt
+  ├─ Entity Typing (NER):
+                    ├─ et_{train,dev,test}.json
+                    ├─ fine_grained_list.txt
+```
+
+- License: **KoCHET** is intended for non-commercial research purpose only.
+
+
+------------------------------------------
+## :bookmark_tabs: Dataset Statistics
 
 | Task |                |  Train  |   Dev  |  Test  |
 |:----:|:--------------:|:-------:|:------:|:------:|
@@ -22,6 +46,7 @@ We will release after... TBD
 |      | # of mentions  | 266,209 | 33,226 | 33,395 |
 
 
+------------------------------------------
 ## Baseline
 
 |                     |       NER       |                 |               |               |    RE     |           |    ET     |           |
@@ -33,9 +58,18 @@ We will release after... TBD
 | `KLUE-RoBERTa-base` |      38.92      |      33.48      |     55.47     |     81.08     |   82.42   | **90.78** |   92.80   |   92.84   |
 
 
-## Acknowledgements
+------------------------------------------
+## Citation
 
-This research is supported by Ministry of Culture, Sports and Tourism and Korea Creative Content Agency(Project Number: R2020040045) and is supported by the MSIT(Ministry of Science and ICT), Korea, under the ITRC(Information Technology Research Center) support program(IITP-2018-0-01405) supervised by the IITP(Institute for Information & Communications Technology Planning & Evaluation)
+:thumbsup: Please cite our paper in any published work that uses any of these resources. :thumbsup:
 
+~~~bibtex
+@article{kim2022kochet,
+  title={KoCHET: a Korean Cultural Heritage corpus for Entity-related Tasks},
+  author={Kim, Gyeongmin and Kim, Jinsung and Son, Junyoung and Lim, Heuiseok},
+  journal={arXiv preprint arXiv:2209.00367},
+  year={2022}
+}
+~~~
 
 If you have any questions / comment related to this work, please do not hesitate to contact the authors: Gyeongmin Kim <totoro4007@korea.ac.kr>, Jinsung Kim <jin62304@korea.ac.kr>, Junyoung Son <s0ny@korea.ac.kr>.
