@@ -1,6 +1,6 @@
 # KoCHET: a Korean Cultural Heritage corpus for Entity-related Tasks [Accepted at COLING 2022]
 
-We propose _**KoCHET benchmark dataset v 1.0**_ Korean cultural heritage corpus for entity-related tasks, named entity recognition (NER), relation extraction (RE), and entity typing (ET).
+We propose :kr: _**KoCHET benchmark dataset v 1.0**_ :kr: Korean cultural heritage corpus for entity-related tasks, named entity recognition (NER), relation extraction (RE), and entity typing (ET).
 
 This research was conducted within the framework of the project "_Development of Intelligent Curation and Service Platform-based Digital Asset for Immersive Cultural Heritage_" presented in the South Korean Ministry of Culture.
 
@@ -34,7 +34,7 @@ KoCHET - a Korean cultural heritage corpus
 
 
 ------------------------------------------
-## :bookmark_tabs: Dataset Statistics
+## :bookmark_tabs: ***Dataset Statistics***
 
 | Task |                |  Train  |   Dev  |  Test  |
 |:----:|:--------------:|:-------:|:------:|:------:|
@@ -47,7 +47,7 @@ KoCHET - a Korean cultural heritage corpus
 
 
 ------------------------------------------
-## Baseline
+## :bookmark_tabs: ***Baseline***
 
 |                     |       NER       |                 |               |               |    RE     |           |    ET     |           |
 |:-------------------:|:---------------:|:---------------:|:-------------:|:-------------:|:---------:|:---------:|:---------:|:---------:|
@@ -72,4 +72,4 @@ KoCHET - a Korean cultural heritage corpus
 }
 ~~~
 
-If you have any questions / comment related to this work, please do not hesitate to contact the authors: Gyeongmin Kim <totoro4007@korea.ac.kr>, Jinsung Kim <jin62304@korea.ac.kr>, Junyoung Son <s0ny@korea.ac.kr>.
+:email: If you have any questions / comment related to this work, please do not hesitate to contact the authors: Gyeongmin Kim <totoro4007@korea.ac.kr>, Jinsung Kim <jin62304@korea.ac.kr>, Junyoung Son <s0ny@korea.ac.kr>.
