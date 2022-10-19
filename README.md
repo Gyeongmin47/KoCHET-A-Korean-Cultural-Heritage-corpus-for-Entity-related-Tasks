@@ -1,6 +1,6 @@
-# KoCHET: a Korean Cultural Heritage corpus for Entity-related Tasks [Accepted at COLING 2022]
+# KoCHET: A Korean Cultural Heritage corpus for Entity-related Tasks [Accepted at COLING 2022]
 
-We propose :kr: _**KoCHET benchmark dataset v 1.0**_ :kr: Korean cultural heritage corpus for entity-related tasks, named entity recognition (NER), relation extraction (RE), and entity typing (ET).
+We propose :kr: _**KoCHET dataset v 1.0**_ :kr: Korean cultural heritage corpus for entity-related tasks, named entity recognition (NER), relation extraction (RE), and entity typing (ET).
 
 This research was conducted within the framework of the project "_Development of Intelligent Curation and Service Platform-based Digital Asset for Immersive Cultural Heritage_" presented in the South Korean Ministry of Culture.
 
